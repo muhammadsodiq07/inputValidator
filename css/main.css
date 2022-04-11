@@ -119,6 +119,7 @@ img {
 .txt {
   display: inline-block;
   margin-bottom: 8px;
+  font-weight: 600;
 }
 
 .btn {
